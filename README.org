@@ -1,0 +1,7 @@
+** The Hoare State Monad
+
+The Hoare State Monad is a way of encoding the preconditions and postconditions of Hoare Logic in the type of the familiar state monad from Haskell.
+
+This repository contains an exploration of the Hoare State Monad using Coq.
+
+The code in ~hoare_state.v~ is reproduced from the paper ~Hoare State Monad Proof Pearl~ by Wouter Swiestra available here https://webspace.science.uu.nl/~swier004/publications/2009-tphols.pdf.
